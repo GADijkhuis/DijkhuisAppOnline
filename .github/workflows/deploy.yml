@@ -24,6 +24,11 @@ jobs:
       - name: Set Up CI
         run: npm ci
 
+      - name: Set Git identity
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
       - name: Build React app
         run: CI=false npm run build
         env:
