@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/DijkhuisAppOnline/static/css/main.6b5947bf.css",
-    "main.js": "/DijkhuisAppOnline/static/js/main.51859481.js",
+    "main.js": "/DijkhuisAppOnline/static/js/main.64a21630.js",
     "static/js/977.ac17ebc6.chunk.js": "/DijkhuisAppOnline/static/js/977.ac17ebc6.chunk.js",
     "static/js/455.a92516d4.chunk.js": "/DijkhuisAppOnline/static/js/455.a92516d4.chunk.js",
     "static/js/453.37140ed9.chunk.js": "/DijkhuisAppOnline/static/js/453.37140ed9.chunk.js",
     "index.html": "/DijkhuisAppOnline/index.html",
     "main.6b5947bf.css.map": "/DijkhuisAppOnline/static/css/main.6b5947bf.css.map",
-    "main.51859481.js.map": "/DijkhuisAppOnline/static/js/main.51859481.js.map",
+    "main.64a21630.js.map": "/DijkhuisAppOnline/static/js/main.64a21630.js.map",
     "977.ac17ebc6.chunk.js.map": "/DijkhuisAppOnline/static/js/977.ac17ebc6.chunk.js.map",
     "455.a92516d4.chunk.js.map": "/DijkhuisAppOnline/static/js/455.a92516d4.chunk.js.map",
     "453.37140ed9.chunk.js.map": "/DijkhuisAppOnline/static/js/453.37140ed9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6b5947bf.css",
-    "static/js/main.51859481.js"
+    "static/js/main.64a21630.js"
   ]
 }
