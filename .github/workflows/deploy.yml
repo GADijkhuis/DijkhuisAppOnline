@@ -21,9 +21,6 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Set Up CI
-        run: npm ci
-
       - name: Set Git identity
         run: |
           git config --global user.name "GitHub Actions"
